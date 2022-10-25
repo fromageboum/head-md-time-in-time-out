@@ -1,7 +1,6 @@
 # Questions et investigations sur le temps
 
-### Pour commencer à questionner le rapport au temps, aux outils qu'on utilise pour le mesurer 
-je pose des questions à des proches (et moi) et un ou deux jours après je collecte les réponses.
+### Pour commencer à questionner le rapport au temps, aux outils qu'on utilise pour le mesurer je pose des questions à des proches (et moi) et un ou deux jours après je collecte les réponses.
 
 **Quels mooyens utilises-tu pour te repérer dans le temps ? À quelle fréquence ?**
 
