@@ -72,3 +72,5 @@ Un truc assez étonnant qui arrive parfois c'est que j'ai l'impression de pouvoi
 ### Liens/ trucs intéressants
 
 Pour avoir des données qui évoluent en temps réels sur des sujets + ou - importants c'est toujours marrant de jeter un oeil sur [Worldometer](https://www.worldometers.info/)
+
+Quipu is a south American recording and storage system that is fashionned with knots on cotton strings[Quipu](https://en.wikipedia.org/wiki/Quipu)
