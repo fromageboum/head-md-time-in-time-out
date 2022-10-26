@@ -24,6 +24,10 @@ Pendant un moment le matin mon répère c'était le passages des éboueurs dans 
 
 Quand je dois faire des choses je me chronomètre aussi souvent en nombre de chansons qui sont passés pendant qu eje fais une tâche (douche, cuisine, trajet) et je fais des estimations (fausses) à partir de ça.
 
+3.Julia : 
+
+Je regarde l'heure sur les écrans, principalement ordinateur et téléphone. en moyenne toutes les 10 minutes. Je regarde l'heure sur un appareil proche de moi .
+
 ### Quel rapport tu as avec le temps ?
 
 1.Loun :
@@ -36,6 +40,10 @@ Je trouve que le temps c'est absurde de la même manière que l'espace c'est abs
 
 J'ai un rapport au temps assez passif au temps je pense que la manière dont on a conceptualisé le temps c'est vraiment comme de l'eau.
 
+3.Julia : 
+
+J'ai besoin d'avoir l'heure en permanence, de l'avoir accessible, d'ailleurs ça me crée une forte angoisse de pas y avoir accès. Le temps c'est quelque chose qui me stresse beaucoup alors j'ai beaucoup de mal à le planifier, j'ai du mal à me dire "mardi de 16h à 17h, je ferai ça"
+
 ### Comment tu planifies ton temps ?
 
 1.Loun :
@@ -47,6 +55,8 @@ Du mal à gérer le temps, je pense que j'ai tendance à bien aimer me rendre d�
 
 Donc j'ai peut être un peu tendance à surplanifier pour ne pas avoir à planifier pour de vrai et faire les choix par importance quand le moment est venu. Par exemple je fais beaucoup de to do list mais pas toujours pour les suivre.
 
+3.Julia : 
+
 ### Quelle heure t'a paru la plus longue dans ta dernière journée ?
 1.Loun :
 
@@ -55,6 +65,8 @@ L'heure qui m'a paru la plus longue aujourd'hui c'était vraiment les 15 minutes
 2.Moi : 
 
 L'heure la plus longue c'était probablement l'heure de retour en bus/train ce qui est assez bizarre parce que j'adore les trajets mais c'était probablement le manque d'énergie pour en profiter qui a rendu ça long.
+
+3.Julia : 
 
 ### Trucs spéciaux / faits observés sur toi et ta temporalité
 1.Loun :
@@ -68,6 +80,8 @@ Quand je suis gêné ou mal à laise j'ai l'impression que le temps va super len
 2.Moi : 
 
 Un truc assez étonnant qui arrive parfois c'est que j'ai l'impression de pouvoir faire des liens entres des périodes de ma vie qui n'ont rien à voir, je pense une question de cycle d'évolution qui se répète mais par exemple, mon année de seconde était le même genre d'année que ma deuxième année aux beaux arts et mon CE2 très semblable à ma 5e.
+
+3.Julia : 
 
 ### Liens/ trucs intéressants
 
