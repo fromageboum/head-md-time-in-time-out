@@ -2,7 +2,7 @@
 
 ## Pour commencer à questionner le rapport au temps, aux outils qu'on utilise pour le mesurer je pose des questions à des proches (et moi) et un ou deux jours après je collecte les réponses.
 
-### Quels mooyens utilises-tu pour te repérer dans le temps ? À quelle fréquence ?
+### Quels moyens utilises-tu pour te repérer dans le temps ? À quelle fréquence ?
 
 1.Loun :
 
@@ -68,6 +68,7 @@ Quand je suis gêné ou mal à laise j'ai l'impression que le temps va super len
 2.Moi : 
 
 Un truc assez étonnant qui arrive parfois c'est que j'ai l'impression de pouvoir faire des liens entres des périodes de ma vie qui n'ont rien à voir, je pense une question de cycle d'évolution qui se répète mais par exemple, mon année de seconde était le même genre d'année que ma deuxième année aux beaux arts et mon CE2 très semblable à ma 5e.
+
 ### Liens/ trucs intéressants
 
 Pour avoir des données qui évoluent en temps réels sur des sujets + ou - importants c'est toujours marrant de jeter un oeil sur [Worldometer](https://www.worldometers.info/)
