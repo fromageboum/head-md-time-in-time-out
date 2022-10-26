@@ -24,7 +24,7 @@ Pendant un moment le matin mon répère c'était le passages des éboueurs dans 
 
 Quand je dois faire des choses je me chronomètre aussi souvent en nombre de chansons qui sont passés pendant qu eje fais une tâche (douche, cuisine, trajet) et je fais des estimations (fausses) à partir de ça.
 
-### Quel rapport tu as avec le temps ?(question super nulle et générale)
+### Quel rapport tu as avec le temps ?
 
 1.Loun :
 
