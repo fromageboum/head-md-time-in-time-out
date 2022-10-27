@@ -115,22 +115,32 @@ Interface de micro-ondes
 
 Moi : Parfois je la regarde tourner ou j'écoute le bruit du tambour, sinon j'essaye de trouver une activité qui peut rentrer dans ce temps, ça peut m'aider à faire des choses si j'ai le timer de la machine à laver, comme c'est en laverie j'ai besoin de la sortir au bon moment forcément sinon je ne sais pas où je vais retrouver mes vêtements.
 
+Michelle : Je fais le ménage parce que je suis lancé dans cette activité et j'essaye de faire rentrer mon ménage dans le temps de la machine à laver
+
 ### Qu'est ce que tu fais pendant que ton micro onde chauffe ?
 
 Moi : souvent je ne regarde pas l'écran et je marche en comptant dans ma tête en essayant de tomber juste sur la fin du timer.
+
+Michelle : Je peut faire autre chose mais comme la sonnerie de fin du timer est désagréable à entendre j'ai tendance à l'anticiper pour couper le temps avant.
+
+
 
 ### Qu'est ce que tu fais pendant que ton lave vaisselle tourne ?
 
 Moi : J'en ai jamais eu chez moi mais comme on peut se permettre de laisser la vaisselle dedans très longtemps j'ai tendance à l'ignorer.
 
+Michelle : Je le fais tourner la nuit comme ça je n'ai pas besoin d'y penser et le premier qui se lève et va dan sla cuicine va le vider.
+
 ### Qu'est ce que tu fais pendant que attends l'ascenceur ?
 
-Moi : Pour l'ascenceur, comme le micro onde j'ai tendance à essayer de prévoir quand il va arriver à quel étage, et pareilà l'intérieur.
+Moi : Pour l'ascenceur, comme le micro onde j'ai tendance à essayer de prévoir quand il va arriver à quel étage, et pareil à l'intérieur pendant qu'il monte.
 
-### Qu'est ce que tu fais pendant que attends pendant que quelque chose cuit au four ?
+### Qu'est ce que tu fais pendant que attends quand que quelque chose cuit au four ?
 
 Moi : Je vais le piquer toutes les 10 min parce que le temps de cuisson dans les recettes est rarement adaptable à tous les fours donc pas très fiable.
 
 ### Qu'est ce que tu fais pendant que attends pendant que tu fais griller du pain ?
 
 Moi : Je vérifie qu'il ne brûle pas et parfois j'essaye d'anticiper son éjection.
+
+### Comment ces temps d'attente 
