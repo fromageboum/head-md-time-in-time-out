@@ -101,12 +101,8 @@ Ces appareils ont leur propre temporalité qui n'est aucunement liée à l'avanc
 Deux machines à laver situés dans des méridiens qui commencent leurs cyclesen même temps peuvent vivre une heure en commun.
 
 
-![machine](machine.jpg)
-
-![micro](micro.png)
-
-![washingmachine](washingmachine.jpg)
+![machine](machine.jpg) ![micro](micro.png) ![washingmachine](washingmachine.jpg)
 
 Deux exemples de l'utilisation des appareils séquenceurs de temps dans la fiction en temps que machine à voyager dans le temps.
 
-
+![interface](interface.jpg)
