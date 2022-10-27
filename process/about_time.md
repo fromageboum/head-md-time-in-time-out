@@ -57,6 +57,8 @@ Donc j'ai peut être un peu tendance à surplanifier pour ne pas avoir à planif
 
 3.Julia : 
 
+**en attente**
+
 ### Quelle heure t'a paru la plus longue dans ta dernière journée ?
 1.Loun :
 
@@ -67,6 +69,8 @@ L'heure qui m'a paru la plus longue aujourd'hui c'était vraiment les 15 minutes
 L'heure la plus longue c'était probablement l'heure de retour en bus/train ce qui est assez bizarre parce que j'adore les trajets mais c'était probablement le manque d'énergie pour en profiter qui a rendu ça long.
 
 3.Julia : 
+
+**en attente**
 
 ### Trucs spéciaux / faits observés sur toi et ta temporalité
 1.Loun :
@@ -83,8 +87,26 @@ Un truc assez étonnant qui arrive parfois c'est que j'ai l'impression de pouvoi
 
 3.Julia : 
 
+**en attente**
 ### Liens/ trucs intéressants
 
 Pour avoir des données qui évoluent en temps réels sur des sujets + ou - importants c'est toujours marrant de jeter un oeil sur [Worldometer](https://www.worldometers.info/)
 
 [Quipu](https://en.wikipedia.org/wiki/Quipu) is a south American recording and storage system that is fashionned with knots on cotton strings
+
+## Après cette première phase de questionnaire les recherches vont continuer axée sur les "appareils séquenceurs de temps"
+### (Bouilloires,micro ondes, machine à laver, four, lave vaisselle, ascenceurs)
+
+Ces appareils ont leur propre temporalité qui n'est aucunement liée à l'avancement du cours du temps avce un grand T. C'est pour ça que j'ai choisi l'appellation de séquenceurs de temps, ils ont une fonction bien précise et un temps qui ne dépend que de cette tâche à accomplir. Le compteur en seconde du micro ondes peut très bien commencer entre deux "vraies secondes" d'une montre à l'heure.
+Deux machines à laver situés dans des méridiens qui commencent leurs cyclesen même temps peuvent vivre une heure en commun.
+
+
+![machine](machine.jpg)
+
+![micro](micro.png)
+
+![washingmachine](washingmachine.jpg)
+
+Deux exemples de l'utilisation des appareils séquenceurs de temps dans la fiction en temps que machine à voyager dans le temps.
+
+
