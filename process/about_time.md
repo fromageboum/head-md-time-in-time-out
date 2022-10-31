@@ -154,3 +154,11 @@ Les réponses des personnes qui ont rempli ce questionnaire m'ont confirmé les 
 ![interface](img/micro3.jpg)
 ![interface](img/micro4.jpg)
 ![interface](img/micro5.jpg)
+
+![interface](img/wash1.jpg)
+![interface](img/wash.jpg)
+![interface](img/wash2.jpg)
+![interface](img/wash3.jpg)
+![interface](img/wash5.jpg)
+![interface](img/wash6.jpg)
+
