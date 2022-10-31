@@ -101,11 +101,11 @@ Ces appareils ont leur propre temporalité qui n'est aucunement liée à l'avanc
 Deux machines à laver situés dans des méridiens qui commencent leurs cyclesen même temps peuvent vivre une heure en commun.
 
 
-![machine](machine.jpg) ![micro](micro.png) ![washingmachine](washingmachine.jpg)
+![machine](img/machine.jpg) ![micro](img/micro.png) ![washingmachine](img/washingmachine.jpg)
 
 Deux exemples de l'utilisation des appareils séquenceurs de temps dans la fiction en temps que machine à voyager dans le temps.
 
-![interface](interface.jpg)
+![interface](img/interface.jpg)
 
 Interface de micro-ondes
 
@@ -115,21 +115,16 @@ Interface de micro-ondes
 
 Moi : Parfois je la regarde tourner ou j'écoute le bruit du tambour, sinon j'essaye de trouver une activité qui peut rentrer dans ce temps, ça peut m'aider à faire des choses si j'ai le timer de la machine à laver, comme c'est en laverie j'ai besoin de la sortir au bon moment forcément sinon je ne sais pas où je vais retrouver mes vêtements.
 
-Michelle : Je fais le ménage parce que je suis lancé dans cette activité et j'essaye de faire rentrer mon ménage dans le temps de la machine à laver
+
 
 ### Qu'est ce que tu fais pendant que ton micro onde chauffe ?
 
 Moi : souvent je ne regarde pas l'écran et je marche en comptant dans ma tête en essayant de tomber juste sur la fin du timer.
 
-Michelle : Je peut faire autre chose mais comme la sonnerie de fin du timer est désagréable à entendre j'ai tendance à l'anticiper pour couper le temps avant.
-
-
 
 ### Qu'est ce que tu fais pendant que ton lave vaisselle tourne ?
 
 Moi : J'en ai jamais eu chez moi mais comme on peut se permettre de laisser la vaisselle dedans très longtemps j'ai tendance à l'ignorer.
-
-Michelle : Je le fais tourner la nuit comme ça je n'ai pas besoin d'y penser et le premier qui se lève et va dan sla cuicine va le vider.
 
 ### Qu'est ce que tu fais pendant que attends l'ascenceur ?
 
@@ -143,4 +138,13 @@ Moi : Je vais le piquer toutes les 10 min parce que le temps de cuisson dans les
 
 Moi : Je vérifie qu'il ne brûle pas et parfois j'essaye d'anticiper son éjection.
 
-### Comment ces temps d'attente 
+![interface](img/interviews.jpg)
+![interface](img/interviews1.jpg)
+![interface](img/interviews2.jpg)
+![interface](img/interviews3.jpg)
+![interface](img/interviews4.jpg)
+![interface](img/interviews5.jpg)
+![interface](img/interviews6.jpg)
+![interface](img/interviews7.jpg)
+
+Les réponses des personnes qui ont rempli ce questionnaire m'ont confirmé les suppositions que j'avais sur l'impact de ces temporalités parallèles induites par ces objets. Les séquenceurs temporels sont contraignants au niveua de notre gestion du temps puisque nous engageons une interaction avec eux dans le but de pouvoir poursuivre une activité supposée mais celà implique de rentrer dans leur cycle temporel.
