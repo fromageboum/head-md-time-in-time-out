@@ -148,3 +148,10 @@ Moi : Je vérifie qu'il ne brûle pas et parfois j'essaye d'anticiper son éject
 ![interface](img/interviews7.jpg)
 
 Les réponses des personnes qui ont rempli ce questionnaire m'ont confirmé les suppositions que j'avais sur l'impact de ces temporalités parallèles induites par ces objets. Les séquenceurs temporels sont contraignants au niveua de notre gestion du temps puisque nous engageons une interaction avec eux dans le but de pouvoir poursuivre une activité supposée mais celà implique de rentrer dans leur cycle temporel.
+
+![interface](img/micro.png)
+![interface](img/micro1.jpg)
+![interface](img/micro2.jpg)
+![interface](img/micro3.jpg)
+![interface](img/micro4.jpg)
+![interface](img/micro5.jpg)
