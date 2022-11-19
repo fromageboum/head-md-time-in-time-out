@@ -1,142 +1,143 @@
-# Questions et investigations sur le temps
+# Questions and investigations on time
 
-## Pour commencer à questionner le rapport au temps, aux outils qu'on utilise pour le mesurer je pose des questions à des proches (et moi) et un ou deux jours après je collecte les réponses.
+## To start questioning the relationship to time, to the tools we use to measure it, I ask questions to people close to me (and myself) and one or two days later I collect the answers.
 
-### Quels moyens utilises-tu pour te repérer dans le temps ? À quelle fréquence ?
-
-1.Loun :
-
-PC, téléphone, montre à cadran, horloge de la cuisine
-
-Je vérifie à chaque fois que j'ai besoin d'être à l'heure ou que j'ai un horaire précis (ex: rdv, je dois me lever demain, cuisson d'un truc...) sinon quasiment jamais
-
-Le téléphone globalement toujours dans mon sac/sur mon bureau, le PC ça dépend du PC mais en général dans mon lit (sinon le PC du taf), l'horloge sur le grand mur de ma cuisine, la montre à mon poignet (mais pas très souvent)
-
-Sinon pour connaître le temps je me fie à l'éclairage public, au nombre de voitures, nombres de passants, la sonnerie du collège dans lequel j'habites.
-
-Aussi les horaires d'ouvertures des magasins(par exemple je sais que tel magasin ferme à telle heure et ça me repère).
-
-2.Moi :
-
-Enormément mon téléphone sans aucune raison parfois plusieurs fois dans la même minute, sinon je regarde pas mal le temps des micro ondes et des machines à laver il est moins envahissant que le temps de mon téléphone ou des horloges. 
-
-Pendant un moment le matin mon répère c'était le passages des éboueurs dans la rue, c'est le signal que c'est trop tard pour dormir.
-
-Quand je dois faire des choses je me chronomètre aussi souvent en nombre de chansons qui sont passés pendant qu eje fais une tâche (douche, cuisine, trajet) et je fais des estimations (fausses) à partir de ça.
-
-3.Julia : 
-
-Je regarde l'heure sur les écrans, principalement ordinateur et téléphone. en moyenne toutes les 10 minutes. Je regarde l'heure sur un appareil proche de moi .
-
-### Quel rapport tu as avec le temps ?
+### What means do you use to find your way through time? How often?
 
 1.Loun :
 
-C'est compliqué, j'aime le concept du temps je trouve ça beau mais d'une certaine manière j'ai l'impression que c'est très abstrait?
+PC, telephone, watch with dial, kitchen clock
 
-Je trouve que le temps c'est absurde de la même manière que l'espace c'est absurde mais maintenant que j'y réfléchis je pense que c'est sûrement le gigantisme du temps qui m'impressionne. En mode même quand rien n'existait, bah le temps existait et rien n'a existé pendant tel laps de temps, et peut-être que le temps n'a même pas existé à ce moment là mais il était quand même là parce que le temps ne s'arrête jamais!
+I check every time I need to be on time or I have a specific schedule (ex: appointment, I have to get up tomorrow, cooking something...) otherwise almost never
 
-2.Moi :
+The phone is always in my bag/on my desk, the PC it depends on the PC but usually in my bed (if not the PC at work), the clock on the big wall of my kitchen, the watch on my wrist (but not very often)
 
-J'ai un rapport au temps assez passif au temps je pense que la manière dont on a conceptualisé le temps c'est vraiment comme de l'eau.
+Otherwise to know the weather I rely on public lighting, the number of cars, the number of passers-by, the bell of the school where I live.
+
+Also the opening hours of the stores (for example I know that such and such a store closes at such and such a time and that locates me).
+
+2.Myself :
+
+I watch my phone a lot for no reason, sometimes several times in the same minute, otherwise I watch the time of the microwaves and the washing machines a lot, it is less invasive than the time of my phone or the clocks. 
+
+For a while in the morning my cue was the passage of the garbage collectors in the street, this is the signal that it is too late to sleep.
+
+When I have to do things I also often time myself in the number of songs that have passed while I'm doing a task (showering, cooking, commuting) and I make (false) estimates from that.
 
 3.Julia : 
 
-J'ai besoin d'avoir l'heure en permanence, de l'avoir accessible, d'ailleurs ça me crée une forte angoisse de pas y avoir accès. Le temps c'est quelque chose qui me stresse beaucoup alors j'ai beaucoup de mal à le planifier, j'ai du mal à me dire "mardi de 16h à 17h, je ferai ça"
+I look at the time on screens, mainly computer and phone. on average every 10 minutes. I look at the time on a device close to me.
 
-### Comment tu planifies ton temps ?
+### What is your relationship with time?
 
 1.Loun :
 
-Je planifie tarpin, j'essaie d'être toujours en avance, j'ai des agendas d'emploi du temps avec des heures précises, je prends ma montre quand je vais en examen ou des trucs comme ça, je veux pas être pris de court par le temps 
+It's complicated, I like the concept of time I find it beautiful but somehow I have the impression that it is very abstract?
 
-2.Moi :
-Du mal à gérer le temps, je pense que j'ai tendance à bien aimer me rendre débordæ ou juste me sentir débordæ, mais quand j'ai du temps à perdre c'est très cool de marcher dans des directions random et de tourner en rond dans la rue. Autrement si j'ai quelque chose à faire mais que j'ai un temps "non assigné" à quelque chose avant mais que je ne peux pas vraiment faire rentrer une vraie activité dedans, ça me fait rentrer dans une sorte de paralysie un peu nulle. 
+I think that time is absurd in the same way that space is absurd but now that I think about it I think that it's probably the gigantism of time that impresses me. Even when nothing existed, time existed and nothing existed for such and such a period of time, and maybe time didn't even exist at that moment but it was still there because time never stops!
 
-Donc j'ai peut être un peu tendance à surplanifier pour ne pas avoir à planifier pour de vrai et faire les choix par importance quand le moment est venu. Par exemple je fais beaucoup de to do list mais pas toujours pour les suivre.
+2.Myself :
 
-3.Julia : 
-
-**en attente**
-
-### Quelle heure t'a paru la plus longue dans ta dernière journée ?
-1.Loun :
-
-L'heure qui m'a paru la plus longue aujourd'hui c'était vraiment les 15 minutes d'attente dans la rue avec mes trois sacs de matériel de tournage, ça c'était long de fou, ressenti au moins 45 min.
-
-2.Moi : 
-
-L'heure la plus longue c'était probablement l'heure de retour en bus/train ce qui est assez bizarre parce que j'adore les trajets mais c'était probablement le manque d'énergie pour en profiter qui a rendu ça long.
+I have a rather passive relationship to time, I think that the way we conceptualized time is really like water.
 
 3.Julia : 
 
-**en attente**
+I need to have the time at all times, to have it accessible, and it creates a lot of anxiety for me not to have access to it. Time is something that stresses me a lot, so I have a hard time planning it, I have a hard time saying to myself "Tuesday from 4 to 5 pm, I'll do this".
 
-### Trucs spéciaux / faits observés sur toi et ta temporalité
-1.Loun :
+### How do you plan your time?
 
-Quand je suis fatigué, la musique et les conversations semblent s'accélérer, durer moins longtemps. Quand je suis énergique, la musique semble à sa juste vitesse mais "ralentie" et "décomposée" par notes (je repère plus de choses, je suis plus attentif)
+1.Loun:
 
-Plus je vieillis plus le temps passe vite
+I plan a lot, I try to always be ahead, I have schedule agendas with specific times, I take my watch when I go to exams or stuff like that, I don't want to be caught short by time 
 
-Quand je suis gêné ou mal à laise j'ai l'impression que le temps va super lentement, même si je repense juste au souvenir du truc qui me fait cringe
+2.Me:
+Hard to manage time, I think I tend to like to make myself overwhelmed or just feel overwhelmed, but when I have time on my hands it's very cool to walk in random directions and go in circles on the street. Otherwise if I have something to do but I have "unassigned" time to do something before but I can't really fit any real activity in, it makes me go into a kind of lame paralysis. 
 
-2.Moi : 
+So I may have a bit of a tendency to over-plan so I don't have to plan for real and make choices by importance when the time comes. For example I make a lot of to-do lists but not always to keep track of them.
 
-Un truc assez étonnant qui arrive parfois c'est que j'ai l'impression de pouvoir faire des liens entres des périodes de ma vie qui n'ont rien à voir, je pense une question de cycle d'évolution qui se répète mais par exemple, mon année de seconde était le même genre d'année que ma deuxième année aux beaux arts et mon CE2 très semblable à ma 5e.
+3.Julia: 
 
-3.Julia : 
+**waiting**
 
-**en attente**
-### Liens/ trucs intéressants
+### What was the longest hour in your last day?
+1.Loun:
 
-Pour avoir des données qui évoluent en temps réels sur des sujets + ou - importants c'est toujours marrant de jeter un oeil sur [Worldometer](https://www.worldometers.info/)
+The hour that seemed the longest today was really the 15 minutes of waiting in the street with my three bags of filming equipment, that was crazy long, felt like at least 45 min.
 
-[Quipu](https://en.wikipedia.org/wiki/Quipu) is a south American recording and storage system that is fashionned with knots on cotton strings
+2.Me: 
 
-## Après cette première phase de questionnaire les recherches vont continuer axée sur les "appareils séquenceurs de temps"
-### (Bouilloires,micro ondes, machine à laver, four, lave vaisselle, ascenceurs)
+The longest hour was probably the hour back on the bus/train which is kind of weird because I love commuting but it was probably the lack of energy to enjoy it that made it long.
 
-Ces appareils ont leur propre temporalité qui n'est aucunement liée à l'avancement du cours du temps avce un grand T. C'est pour ça que j'ai choisi l'appellation de séquenceurs de temps, ils ont une fonction bien précise et un temps qui ne dépend que de cette tâche à accomplir. Le compteur en seconde du micro ondes peut très bien commencer entre deux "vraies secondes" d'une montre à l'heure.
-Deux machines à laver situés dans des méridiens qui commencent leurs cyclesen même temps peuvent vivre une heure en commun.
+3.Julia: 
+
+**waiting**
+
+### Special tricks / facts observed about you and your temporality
+1.Loun:
+
+When I'm tired, the music and conversations seem to speed up, last less time. When I am energetic, music seems to be at its proper speed but "slowed down" and "broken down" by notes (I notice more things, I pay more attention)
+
+The older I get, the faster time passes
+
+When I'm embarrassed or uncomfortable I feel like time is going super slow, even if I just think back to the memory of the thing that's making me cringe
+
+2.Me: 
+
+A pretty amazing thing that happens sometimes is that I feel like I can make connections between periods of my life that have nothing to do with each other, I think a matter of a repeating cycle of evolution but for example, my sophomore year was the same kind of year as my sophomore year at art school and my third grade very similar to my fifth.
+
+3.Julia: 
+
+**waiting**
+
+### Interesting Links/Tips
+
+To get real time data on important topics it's always fun to check out [Worldometer](https://www.worldometers.info/)
+
+[Quipu](https://en.wikipedia.org/wiki/Quipu) is a south American recording and storage system that is fashioned with knots on cotton strings
+
+## After this first phase of questionnaire the research will continue focused on "time sequencing devices" (Kettles, microphones, etc.)
+### (Kettles, microwave, washing machine, oven, dishwasher, elevators)
+
+These appliances have their own temporality which is not linked to the progress of time with a capital T. That's why I chose the name of time sequencers, they have a very precise function and a time that depends only on this task to accomplish. The second counter of the microwave can very well start between two "real seconds" of a watch on time.
+Two washing machines located in meridians that start their cycles at the same time can live one hour in common.
 
 
 ![machine](img/machine.jpg) ![micro](img/micro.png) ![washingmachine](img/washingmachine.jpg)
 
-Deux exemples de l'utilisation des appareils séquenceurs de temps dans la fiction en temps que machine à voyager dans le temps.
+Two examples of the use of time sequencing devices in fiction as time machines.
 
 ![interface](img/interface.jpg)
 
-Interface de micro-ondes
+Microwave interface
 
-## Questionnaire à propos des temps d'attente liés à l'utilisation des séquenceurs de temps
+## Questionnaire about the waiting times related to the use of time sequencers
 
-### Qu'est ce que tu fais pendant que ta machine à laver tourne ?
+### What do you do while your washing machine is running?
 
-Moi : Parfois je la regarde tourner ou j'écoute le bruit du tambour, sinon j'essaye de trouver une activité qui peut rentrer dans ce temps, ça peut m'aider à faire des choses si j'ai le timer de la machine à laver, comme c'est en laverie j'ai besoin de la sortir au bon moment forcément sinon je ne sais pas où je vais retrouver mes vêtements.
-
-
-
-### Qu'est ce que tu fais pendant que ton micro onde chauffe ?
-
-Moi : souvent je ne regarde pas l'écran et je marche en comptant dans ma tête en essayant de tomber juste sur la fin du timer.
+Me: Sometimes I watch it running or listen to the sound of the drum, otherwise I try to find an activity that can fit into this time, it can help me do things if I have the timer on the washing machine, as it's in a laundromat I need to get it out at the right time necessarily otherwise I don't know where I'm going to find my clothes.
 
 
-### Qu'est ce que tu fais pendant que ton lave vaisselle tourne ?
 
-Moi : J'en ai jamais eu chez moi mais comme on peut se permettre de laisser la vaisselle dedans très longtemps j'ai tendance à l'ignorer.
+### What do you do while your microwave is heating?
 
-### Qu'est ce que tu fais pendant que attends l'ascenceur ?
+Me: I often don't look at the screen and walk around counting in my head trying to get to the end of the timer.
 
-Moi : Pour l'ascenceur, comme le micro onde j'ai tendance à essayer de prévoir quand il va arriver à quel étage, et pareil à l'intérieur pendant qu'il monte.
 
-### Qu'est ce que tu fais pendant que attends quand que quelque chose cuit au four ?
+### What do you do while your dishwasher is running?
 
-Moi : Je vais le piquer toutes les 10 min parce que le temps de cuisson dans les recettes est rarement adaptable à tous les fours donc pas très fiable.
+Me: I've never had one in my house but since we can afford to leave the dishes in there for a long time I tend to ignore it.
 
-### Qu'est ce que tu fais pendant que attends pendant que tu fais griller du pain ?
+### What do you do while waiting for the elevator?
 
-Moi : Je vérifie qu'il ne brûle pas et parfois j'essaye d'anticiper son éjection.
+Me: For the elevator, like the microwave I tend to try to predict when it's going to get to which floor, and the same inside while it's going up.
+
+### What do you do while waiting for something to cook in the oven?
+
+Me: I'll poke it every 10 min because the cooking time in recipes is rarely adaptable to all ovens so not very reliable.
+
+### What do you do while waiting while toasting bread?
+
+Me: I check to make sure it's not burning and sometimes I try to anticipate its ejection.
 ![interface](img/interview.jpg)
 ![interface](img/interviews1.jpg)
 ![interface](img/interviews2.jpg)
@@ -146,7 +147,7 @@ Moi : Je vérifie qu'il ne brûle pas et parfois j'essaye d'anticiper son éject
 ![interface](img/interviews6.jpg)
 ![interface](img/interviews7.jpg)
 
-Les réponses des personnes qui ont rempli ce questionnaire m'ont confirmé les suppositions que j'avais sur l'impact de ces temporalités parallèles induites par ces objets. Les séquenceurs temporels sont contraignants au niveau de notre gestion du temps puisque nous engageons une interaction avec eux dans le but de pouvoir poursuivre une activité supposée mais celà implique de rentrer dans leur cycle temporel.
+The answers of the people who filled in this questionnaire confirmed the assumptions I had about the impact of these parallel temporalities induced by these objects. The temporal sequencers are constraining our time management since we engage in an interaction with them in order to be able to pursue a supposed activity but this implies entering their temporal cycle.
 
 
 ![interface](img/micro1.jpg)
@@ -166,11 +167,22 @@ As you are watching the microwave, you are also looking at yourself.
 ![interface](img/wash6.jpg)
 
 
-Expérience à faire avec les séquenceurs de temps : 
-- créer une coéxistence entre deux machines très éloignées en leur faisant dissoudre un message l'une pour l'autre dans un cycle qui donne l'intention au message.
-- utiliser leur hublot comme des miroir et raconter des histoires avec ce qui se passe en transparence
+Experiment to do with time sequencers: 
+- create a coexistence between two very distant machines by having them dissolve a message for each other in a cycle that gives the message intention.
+- use their windows as mirrors and tell stories with what happens in transparency
 
 
 [Micro onde hacké avec une Rasberry PI](https://www.generation-nt.com/actualites/raspberry-pi-microwave-four-micro-ondes-hack-1760862)
 
-La temporalité du micro ondes a cette chose très spéciale qu'elle peut être interrompue rallongée ou raccourcie à n'importe quel moment de son écoulement.
+The temporality of the microwave has this very special thing that it can be interrupted, lengthened or shortened at any moment of its flow.
+
+# Construction of a narrative and first ideas for objects
+
+About the status of the object, consider George Lucas definition of the MacGuffin, more coherent with an object design proposal than the Hitchcockian definition of the term. I'm looking for fictionnal examples that has the object status that interrests me for this project. Examples where the characters can see, and touch the MacGuffin, have interactions with him and have an evoluting relationship with it.
+
+Works of fiction containing a McGuffin   : 
+_ Hellraiser puzzle box
+_ The briefcase Pulp fiction
+_ The plans of the dead Star- Star Wars
+_ The heart of the ocean Titanic
+
