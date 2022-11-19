@@ -181,8 +181,8 @@ The temporality of the microwave has this very special thing that it can be inte
 About the status of the object, consider George Lucas definition of the MacGuffin, more coherent with an object design proposal than the Hitchcockian definition of the term. I'm looking for fictionnal examples that has the object status that interrests me for this project. Examples where the characters can see, and touch the MacGuffin, have interactions with him and have an evoluting relationship with it.
 
 Works of fiction containing a McGuffin   : 
-1. Hellraiser puzzle box
-2. The briefcase Pulp fiction
-3. The plans of the dead Star Star Wars
-4. The heart of the ocean Titanic
+- Hellraiser puzzle box
+- The briefcase Pulp fiction
+- The plans of the dead Star Star Wars
+- The heart of the ocean Titanic
 
