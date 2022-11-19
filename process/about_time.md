@@ -183,6 +183,6 @@ About the status of the object, consider George Lucas definition of the MacGuffi
 Works of fiction containing a McGuffin   : 
 _ Hellraiser puzzle box
 _ The briefcase Pulp fiction
-_ The plans of the dead Star- Star Wars
+_ The plans of the dead Star Star Wars
 _ The heart of the ocean Titanic
 
