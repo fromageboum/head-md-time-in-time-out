@@ -186,3 +186,10 @@ Works of fiction containing a McGuffin   :
 - The plans of the dead Star Star Wars
 - The heart of the ocean Titanic
 
+![interface](img/fingertrap.jpg)
+![interface](img/flipper.jpg)
+
+About the gesture with this temporal MacGuffin, you would need to insert an object physically like a coin (but not a coin) maybe a ball. Depending of the size of the ball you are giving more or less time to it, and his output depends of the chain of decision your gonna make with it.
+
+It begins its output when you slide your hands in the two gloves/pockets on the side. These pockets are gonna be the way the MacGuffin detects your presence and attention to the output he his giving you back. This places the way you are holding it between a hug and a constrain.
+
