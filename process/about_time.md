@@ -188,6 +188,7 @@ Works of fiction containing a McGuffin   :
 
 ![interface](img/fingertrap.jpg)
 ![interface](img/flipper.jpg)
+![interface](img/borne.jpg)
 
 About the gesture with this temporal MacGuffin, you would need to insert an object physically like a coin (but not a coin) maybe a ball. Depending of the size of the ball you are giving more or less time to it, and his output depends of the chain of decision your gonna make with it.
 
