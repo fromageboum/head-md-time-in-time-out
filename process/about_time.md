@@ -194,3 +194,7 @@ About the gesture with this temporal MacGuffin, you would need to insert an obje
 
 It begins its output when you slide your hands in the two gloves/pockets on the side. These pockets are gonna be the way the MacGuffin detects your presence and attention to the output he his giving you back. This places the way you are holding it between a hug and a constrain.
 
+![interface](img/simpleone.jpg)
+
+Simple test of narrative structure
+
