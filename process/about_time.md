@@ -210,6 +210,6 @@ And to add the idea of a wearable that could play music, a really great referenc
 
 Also the good thing with the bird idea is that it is super easy to suggest a bird with a really simple design with a beak.
 
-![interface](img/style1.jpg)
+![interface](img/style1.JPG)
 ![interface](img/style2.jpg)
 ![interface](img/style3.jpg)
