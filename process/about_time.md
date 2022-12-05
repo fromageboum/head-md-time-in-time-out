@@ -198,3 +198,12 @@ It begins its output when you slide your hands in the two gloves/pockets on the 
 
 Simple test of narrative structure
 
+To simulate a "time input", i'm thinking of using a winder 
+
+![interface](img/musician.jpg)
+![interface](img/cutie.jpg)
+
+And to add the idea of a wearable that could play music, a really great reference object would be these wind up toys shaped like birds. You could wear it perched on your wrist or shoulder so he can sing you something. You just need to wind it up sometimes.
+
+![interface](img/boids.jpg)
+![interface](img/bebe.jpg)
