@@ -205,5 +205,6 @@ To simulate a "time input", i'm thinking of using a winder
 
 And to add the idea of a wearable that could play music, a really great reference object would be these wind up toys shaped like birds. You could wear it perched on your wrist or shoulder so he can sing you something. You just need to wind it up sometimes.
 
-![interface](img/boids.jpg)
 ![interface](img/bebe.jpg)
+![interface](img/boids.jpg)
+
