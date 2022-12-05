@@ -213,3 +213,10 @@ Also the good thing with the bird idea is that it is super easy to suggest a bir
 ![interface](img/style1.JPG)
 ![interface](img/style2.jpg)
 ![interface](img/style3.jpg)
+
+# Prototypes
+
+First prototype, having an idea of the form and proportions of the bird
+
+![interface](img/coincoin.jpg)![interface](img/coincoin2.jpg)
+![interface](img/coincoin5.jpg)![interface](img/coincoin7.jpg)
