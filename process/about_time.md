@@ -192,7 +192,7 @@ Works of fiction containing a McGuffin   :
 
 About the gesture with this temporal MacGuffin, you would need to insert an object physically like a coin (but not a coin) maybe a ball. Depending of the size of the ball you are giving more or less time to it, and his output depends of the chain of decision your gonna make with it.
 
-It begins its output when you slide your hands in the two gloves/pockets on the side. These pockets are gonna be the way the MacGuffin detects your presence and attention to the output he his giving you back. This places the way you are holding it between a hug and a constrain.
+Maybe it begins its output when you slide your hands in the two gloves/pockets on the side. These pockets are gonna be the way the MacGuffin detects your presence and attention to the output he his giving you back. This places the way you are holding it between a hug and a constrain.
 
 ![interface](img/simpleone.jpg)
 
@@ -200,8 +200,8 @@ Simple test of narrative structure
 
 To simulate a "time input", i'm thinking of using a winder 
 
-![interface](img/musician.jpg)
-![interface](img/cutie.jpg)
+![interface](img/musican.jpg)
+![interface](img/cutie.gif)
 
 And to add the idea of a wearable that could play music, a really great reference object would be these wind up toys shaped like birds. You could wear it perched on your wrist or shoulder so he can sing you something. You just need to wind it up sometimes.
 
