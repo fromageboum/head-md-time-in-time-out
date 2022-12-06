@@ -220,3 +220,11 @@ First prototype, having an idea of the form and proportions of the bird.
 
 ![interface](img/coincoin.jpg)![interface](img/coincoin2.jpg)
 ![interface](img/coincoin5.jpg)![interface](img/coincoin7.jpg)
+
+Second test with the speaker on the beak and wings on the side
+
+![interface](img/piou.jpg)![interface](img/pioupiou.jpg)
+
+Even if I still have a doubt about about the type of input, i made some test drawings plus a schema of how I imagine the inside.
+
+![interface](img/pioudessin.jpg)![interface](img/schémapiou.jpg)
