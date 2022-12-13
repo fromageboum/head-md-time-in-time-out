@@ -234,7 +234,7 @@ Some tests on the form of the object, drawings and Fusion 360 :
 ![interface](img/formes.jpg)
 
 
-![interface](img/boid.png)![interface](img/boid1.jpg)
+![interface](img/boid.png)![interface](img/boid1.png)
 
 A storyboard of the interactions of the user : 
 
