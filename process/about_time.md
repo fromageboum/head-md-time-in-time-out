@@ -228,3 +228,14 @@ Second test with the speaker on the beak and wings on the side
 Even if I still have a doubt about about the type of input, i made some test drawings plus a schema of how I imagine the inside.
 
 ![interface](img/pioudessin.jpg)![interface](img/schémapiou.jpg)
+
+Some tests on the form of the object, drawings and Fusion 360 :
+
+![interface](img/formes.jpg)
+
+
+![interface](img/boid.png)![interface](img/boid1.jpg)
+
+A storyboard of the interactions of the user : 
+
+![interface](img/storyboard.jpg)
