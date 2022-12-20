@@ -239,3 +239,7 @@ Some tests on the form of the object, drawings and Fusion 360 :
 A storyboard of the interactions of the user : 
 
 ![interface](img/storyboard.jpg)
+
+3D printing of the bird head + a test for the base.
+
+![interface](img/3DPRINT1.jpg)![interface](img/3DPRINT2.jpg)![interface](img/3DPRINT3.jpg)![interface](img/3DPRINT4.jpg)![interface](img/3DPRINT5.jpg)
