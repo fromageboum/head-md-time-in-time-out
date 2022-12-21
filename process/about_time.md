@@ -243,3 +243,17 @@ A storyboard of the interactions of the user :
 3D printing of the bird head + a test for the base.
 
 ![interface](img/3DPRINT1.jpg)![interface](img/3DPRINT2.jpg)![interface](img/3DPRINT3.jpg)![interface](img/3DPRINT4.jpg)![interface](img/3DPRINT5.jpg)
+
+# Testing days
+
+After having the different prototypes tested, A lot of things came up. Mostly about the dynamic and nuances of the output. 
+
+The manipulation of the object was fluid but the wearable aspect wasn't ready yet. The next step about the interactions with the body would be to have a proto harness that I could fix the base of the bird on.
+
+I made two tests, one with the circuit that was closest to what I want to achieve inn term of melody. And a second one with just the object and my voice.
+
+-1rst test : I got a good idea of how the little melody would be recieved. And I got sure that once that the first source of sound has been found, the working of the object is easily understand, the person using it is movinf it around intuitively.
+
+-2nd test : The second test was really working for the fact that people were moving a lot and investigating, searching for new sound sources. But since I simulated the sounds with the mouth it was quickly getting annoying. Also The testers told me that it was sometimes difficult to understand the "emotions" that the device is trying to communicate. During the debrief they mentionned to me, having a second output to indicate the moods (so the music would only be the reward for a good caring of the object).
+
+So I'm quite sure about the object and the gestures it induces, but there are still some things to work, on the output mainly. I also need to make things clear about the type of antenna i should use.
