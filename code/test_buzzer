@@ -1,0 +1,56 @@
+#define buzzer 13  
+#define pot 12 
+
+#define NOTE_C 261
+#define NOTE_Cd 277
+#define NOTE_D 294
+#define NOTE_Dd 311
+#define NOTE_E 330
+#define NOTE_F 349
+#define NOTE_Fd 370
+#define NOTE_G 392
+#define NOTE_Gd 415
+#define NOTE_A 440
+#define NOTE_Ad 457
+#define NOTE_B 474
+#define NOTE_C 492
+
+
+//int melody 
+
+
+int tones[] = { 261, 277, 293, 311, 330, 349, 370, 392, 415, 440, 457, 474, 492};
+//            mid C  C#   D    D#   E    F    F#   G    G#   A     A#    B    C              // une gamme depuis le do du milieu
+
+int melody1 [] = {NOTE_C,NOTE_E,NOTE_C,NOTE_E,NOTE_G,NOTE_E,NOTE_D,NOTE_G,NOTE_E,NOTE_D,NOTE_E,NOTE_C };//12
+
+int melody2 [] = {NOTE_Gd,NOTE_G,NOTE_Dd,NOTE_D,NOTE_C,NOTE_D,NOTE_Dd,NOTE_C,NOTE_Gd,NOTE_G };//10
+
+int melody3 [] = {NOTE_D,NOTE_E,NOTE_Fd,NOTE_D,NOTE_Fd,NOTE_E,NOTE_D,NOTE_A,NOTE_Cd,NOTE_D };//10
+
+int melody4 [] = {NOTE_Cd,NOTE_Gd,NOTE_Dd,NOTE_Cd,NOTE_F,NOTE_Gd,NOTE_Ad,NOTE_Gd,NOTE_F,NOTE_Dd };//10
+
+int melody5 [] = {NOTE_Cd,NOTE_Dd,NOTE_F,NOTE_G,NOTE_Ad,NOTE_G,NOTE_Dd,NOTE_F,NOTE_G,NOTE_Ad };//10
+
+
+
+
+void setup() {
+
+}
+
+void loop() {
+
+  analogRead(pot);
+ // buzzer = map(pot, 0, 1023, 0, 255);
+  analogWrite(13, buzzer);
+
+  for (int i = 0; i < 10; i++) {
+    //  tone(buzzer, acute[i]);
+    tone(buzzer, melody4[i]);  // la note est jouée pendant 500 ms
+
+    delay(500);  // attente de 500 ms entre chaque note
+  }
+
+}
+
