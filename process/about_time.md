@@ -257,3 +257,8 @@ I made two tests, one with the circuit that was closest to what I want to achiev
 -2nd test : The second test was really working for the fact that people were moving a lot and investigating, searching for new sound sources. But since I simulated the sounds with the mouth it was quickly getting annoying. Also The testers told me that it was sometimes difficult to understand the "emotions" that the device is trying to communicate. During the debrief they mentionned to me, having a second output to indicate the moods (so the music would only be the reward for a good caring of the object).
 
 So I'm quite sure about the object and the gestures it induces, but there are still some things to work, on the output mainly. I also need to make things clear about the type of antenna i should use.
+
+# Final choose for the input and interactions
+
+After doing some experimentations with the "Flipper Zero" hacker device, i finally choosed to use an infrared reciever as my input. Because finding the right antenna that would match my needs was to complex. Except if I was using a Sub 1Ghz antenna, but it was covering a to small amount of devices that i could use to make the bard sing. Plus the remote controls happened to represent quite well what i wanted to perform with this object. So the idea is now to deturn the use we have of these object by turning them from an on command super precise tool to an enigmatic moody partition for the bard. 
+
