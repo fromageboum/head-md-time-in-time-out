@@ -262,3 +262,4 @@ So I'm quite sure about the object and the gestures it induces, but there are st
 
 After doing some experimentations with the "Flipper Zero" hacker device, i finally choosed to use an infrared reciever as my input. Because finding the right antenna that would match my needs was to complex. Except if I was using a Sub 1Ghz antenna, but it was covering a to small amount of devices that i could use to make the bard sing. Plus the remote controls happened to represent quite well what i wanted to perform with this object. So the idea is now to deturn the use we have of these object by turning them from an on command super precise tool to an enigmatic moody partition for the bard. 
 
+ 
